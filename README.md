@@ -6,7 +6,7 @@ Cristiano holds a Ph.D. in Theoretical Physics ([SISSA](https://twitter.com/Siss
 
 * If you are interested in science and tech news: [LinkedIn](https://www.linkedin.com/in/cristiano-de-nobili/) & [Twitter](https://twitter.com/denocris);
 * On my [website](https://denocris.com/) you can find all my lectures, workshops, and talks;
-* My [Instagram](https://www.instagram.com/denocris/?hl=it) is about flying, traveling and adventure. It is the social platform that I use the most.
+* My [Instagram](https://www.instagram.com/denocris/?hl=it) is about flying, traveling, and adventure. It is the social platform that I use the most.
 
 
 ## Course Outline
