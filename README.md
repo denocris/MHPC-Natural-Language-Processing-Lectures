@@ -11,7 +11,7 @@ Cristiano holds a Ph.D. in Theoretical Physics ([SISSA](https://twitter.com/Siss
 
 ## Course Outline
 
-* Lecture 1: 
+* Lecture 1: intro to NLP, text preprocessing, spaCy, non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding.
 
 
 
