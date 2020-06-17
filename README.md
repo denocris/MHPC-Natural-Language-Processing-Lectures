@@ -11,12 +11,13 @@ This is the second part of the Deep Learning Course for the [Master in High-Perf
 
 ## Course Outline
 
-* Lecture 1: intro to NLP, text preprocessing, spaCy, common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
+* Lecture 1: intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
-* Lecture 2: transfer learning main concepts, transformer-based model, how BERT-like models are trained and fine-tuned on downstream tasks, intro to Transformers library Hugging Face, tokenization, language modeling with English and non-English (Italian Gilberto and Umberto) pre-trained AutoModels, some examples of NLP problems using Transformers Pipeline.
+* Lecture 2: transfer learning main concepts, transformer-based model, how BERT-like models are trained and fine-tuned on downstream tasks, intro to [Transformers](https://github.com/huggingface/transformers) library Hugging Face, tokenization, language modeling with English and non-English (Italian Gilberto and Umberto) pre-trained AutoModels, some examples of NLP problems using Transformers Pipeline.
 
-* Lecture 3: fine-tune a pre-trained Italian RoBERTa to solve word-sense disambiguation, embedding geometry, clustering (TSNE and UMAP) and visualization (this lecture is a bit advanced). Part of this notebook is done using [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning).
+* Lecture 3: fine-tune a pre-trained Italian RoBERTa to solve word-sense disambiguation, [embedding geometry](https://arxiv.org/abs/1906.02715), clustering (TSNE and UMAP) and visualization (this lecture is a bit advanced). Part of this notebook is done using [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning).
 
+All the lectures were recorded and you can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos.
 
 For any doubts or questions feel free to contact me!
 
