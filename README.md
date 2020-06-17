@@ -1,4 +1,4 @@
-# Natural Language Processing by Cristiano De Nobili
+# Natural Language Processing - Cristiano De Nobili
 
 This is the second part of the Deep Learning Course for the [Master in High-Performance Computing](https://twitter.com/mhpc_sissa_ictp) (SISSA/ICTP). You can find [here]() the first part of the course, Introduction to Neural Networks, by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/).
 
