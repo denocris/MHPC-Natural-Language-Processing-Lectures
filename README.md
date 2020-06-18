@@ -1,6 +1,6 @@
 # Natural Language Processing - Cristiano De Nobili
 
-This is the second part of the Deep Learning Course for the [Master in High-Performance Computing](https://twitter.com/mhpc_sissa_ictp) (SISSA/ICTP). 
+This is the second part of the Deep Learning Course for the [Master in High-Performance Computing](https://twitter.com/mhpc_sissa_ictp) (SISSA/ICTP). It is about Natural Language processing, in particular on recent progress involving transformers-based models.
 
 [Cristiano](https://denocris.com/) holds a Ph.D. in Theoretical Physics ([SISSA](https://twitter.com/Sissaschool)) and he has been actively working in Deep Learning for four years. In particular, he is now part of the Bixby project, Samsung's vocal assistant. He is also a TEDx speaker (here is talk about [AI, Humans and their future](https://youtu.be/8-hrmer9d_E)) and civil pilot (PPL). Here his contacts:
 
