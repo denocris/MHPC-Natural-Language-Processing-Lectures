@@ -1,6 +1,6 @@
 # Natural Language Processing - Cristiano De Nobili
 
-This is the second part of the Deep Learning Course for the [Master in High-Performance Computing](https://twitter.com/mhpc_sissa_ictp) (SISSA/ICTP). You can find [here]() the first part of the course, Introduction to Neural Networks, by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/).
+This is the second part of the Deep Learning Course for the [Master in High-Performance Computing](https://twitter.com/mhpc_sissa_ictp) (SISSA/ICTP). 
 
 [Cristiano](https://denocris.com/) holds a Ph.D. in Theoretical Physics ([SISSA](https://twitter.com/Sissaschool)) and he has been actively working in Deep Learning for four years. In particular, he is now part of the Bixby project, Samsung's vocal assistant. He is also a TEDx speaker (here is talk about [AI, Humans and their future](https://youtu.be/8-hrmer9d_E)) and civil pilot (PPL). Here his contacts:
 
@@ -8,10 +8,13 @@ This is the second part of the Deep Learning Course for the [Master in High-Perf
 * On my [website](https://denocris.com/) you can find all my lectures, workshops, and talks;
 * My [Instagram](https://www.instagram.com/denocris/?hl=it) is about flying, traveling, and adventure. It is the social platform that I use the most.
 
+You can find [here]() the first part of the course, Introduction to Neural Networks, by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/) and [here](https://gitlab.developers.cam.ac.uk/pc620/dl_course) the third part, Deep generative models with TensorFlow 2, by Piero Coronica.
+
+
 
 ## Course Outline
 
-You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures.
+You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
 
 * **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
