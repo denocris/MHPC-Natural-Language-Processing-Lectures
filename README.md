@@ -16,7 +16,7 @@ Have also a look at the first part of the course, [Introduction to Neural Networ
 
 You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
 
-* **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
+* **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ...), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
 * **Lecture 2:** transfer learning main concepts, transformer-based model, how BERT-like models are trained and fine-tuned on downstream tasks, intro to [Transformers](https://github.com/huggingface/transformers) library Hugging Face, tokenization, language modeling with English and non-English (Italian Gilberto and Umberto) pre-trained AutoModels, some examples of NLP problems using Transformers Pipeline.
 
