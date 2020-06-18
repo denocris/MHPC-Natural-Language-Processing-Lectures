@@ -11,7 +11,7 @@ This is the second part of the Deep Learning Course for the [Master in High-Perf
 
 ## Course Outline
 
-All the lectures were recorded and you can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos.
+You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures.
 
 * **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
