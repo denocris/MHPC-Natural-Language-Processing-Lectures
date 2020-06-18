@@ -8,13 +8,13 @@ This is the second part of the Deep Learning Course for the [Master in High-Perf
 * On my [website](https://denocris.com/) you can find all my lectures, workshops, and talks;
 * My [Instagram](https://www.instagram.com/denocris/?hl=it) is about flying, traveling, and adventure. It is the social platform that I use the most.
 
-You can find [here](https://github.com/sissa/p2.13_seed) the first part of the course, Introduction to Neural Networks, by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/) and [here](https://gitlab.developers.cam.ac.uk/pc620/dl_course) the third part, Deep generative models with TensorFlow 2, by Piero Coronica.
+Have also a look to the first part of the course, [Introduction to Neural Networks (with PyTorch)](https://github.com/sissa/p2.13_seed), by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/) and the third part, [Deep generative models with TensorFlow 2](https://gitlab.developers.cam.ac.uk/pc620/dl_course), by Piero Coronica.
 
 
 
 ## Course Outline
 
-[here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) you can find the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
+You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
 
 * **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
