@@ -8,7 +8,7 @@ This is the second part of the Deep Learning Course for the [Master in High-Perf
 * On my [website](https://denocris.com/) you can find all my lectures, workshops, and talks;
 * My [Instagram](https://www.instagram.com/denocris/?hl=it) is about flying, traveling, and adventure. It is the social platform that I use the most.
 
-Have also a look to the first part of the course, [Introduction to Neural Networks (with PyTorch)](https://github.com/sissa/p2.13_seed), by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/) and the third part, [Deep generative models with TensorFlow 2](https://gitlab.developers.cam.ac.uk/pc620/dl_course), by Piero Coronica.
+Have also a look at the first part of the course, [Introduction to Neural Networks (with PyTorch)](https://github.com/sissa/p2.13_seed), by [Alessio Ansuini](https://www.linkedin.com/in/alessioansuini/), and the third part, [Deep generative models with TensorFlow 2](https://gitlab.developers.cam.ac.uk/pc620/dl_course), by Piero Coronica.
 
 
 
