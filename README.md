@@ -14,7 +14,7 @@ You can find [here](https://github.com/sissa/p2.13_seed) the first part of the c
 
 ## Course Outline
 
-You can find [here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
+[here](https://drive.google.com/drive/folders/1rbtfRdvwn9kiMXFrB_4KiUEaoD1dAoMF?usp=sharing) you can find the videos of the lectures. For this year, I decided to use [PyTorch](https://pytorch.org/) as the main Deep Learning library.
 
 * **Lecture 1:** intro to NLP, text preprocessing, [spaCy](https://spacy.io/), common problems in NLP (NER, POS, sentence classification, ecc... ), non-contextual word embedding, SkipGram Word2Vec coded from scratch, pre-trained Glove with Gensim, intro to contextual word embedding and (self-)Attention Mechanism.
 
